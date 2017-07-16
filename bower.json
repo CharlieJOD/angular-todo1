@@ -1,0 +1,17 @@
+{
+  "name": "angular-todo1",
+  "description": "Final Angular Run through",
+  "main": "index.js",
+  "authors": [
+    "JohnOD"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/CharlieJOD/angular-todo1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
